@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>Mixtape behind</title>
+</head>
+
+<body>
+
+<h1>Mixtape behind</h1>
+
+<img src="Mixtape-behind.jpg" width="300">
+
+<p>
+Album：Mixtape<br>
+Year：2018<br>
+Version：behind
+
+</p>
+
+<a href="index.html">← 戻る</a>
+
+</body>
+</html>
